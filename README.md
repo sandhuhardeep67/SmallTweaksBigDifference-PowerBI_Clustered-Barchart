@@ -1,1 +1,1 @@
-<h2 align="center">SmallTweaksBigDifference - PowerBI_Clustered-Barchart</h2>
+<h2 align="center">PowerBI_Clustered-Barchart</h2>
